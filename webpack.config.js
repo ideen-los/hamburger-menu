@@ -10,7 +10,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Dynamic UI Interactions',
+      title: 'Hamburger Menu',
       template: './src/template.html',
     }),
   ],
